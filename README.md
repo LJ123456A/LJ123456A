@@ -1,4 +1,4 @@
-### Hi there 👋
+### use the juice 
 
 <!--
 **LJ123456A/LJ123456A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
